@@ -1,7 +1,7 @@
 # notepadDemo
 
-npm install && start
+* npm install && start
 
-打包: npm run make 
+* 打包: npm run make 
 
-生成 .exe应用程序 直接运行即可
+* 生成 .exe应用程序 直接运行即可
